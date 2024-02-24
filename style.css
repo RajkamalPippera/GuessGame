@@ -1,0 +1,94 @@
+body{
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+h1{
+    color: white;
+    
+}
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+
+}
+.box{
+    width: 200px;
+    height: 200px;
+    margin:20px;
+    border: 1px solid white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 70px;
+    cursor: pointer;
+}
+.box1{
+    width: 200px;
+    height: 200px;
+    margin:20px;
+    border: 1px solid white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 70px;
+    cursor: pointer;
+}
+
+.box2{
+    width: 200px;
+    height: 200px;
+    margin:20px;
+    border: 1px solid white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 70px;
+    cursor: pointer;
+
+}
+.box3{
+    width: 200px;
+    height: 200px;
+    margin:20px;
+    border: 1px solid white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 70px;
+    cursor: pointer;
+
+}
+.box4{
+    width: 200px;
+    height: 200px;
+    margin:20px;
+    border: 1px solid white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 70px;
+    cursor: pointer;
+
+}
+h2{
+    color: white;
+
+    font-size: 40px;
+}
+#inputvalue{
+    height: 30px;
+    font-size: 15px;
+    
+}
+button{
+    padding: 9px 20px;
+}
+.h1{
+    color: white;
+    
+}
