@@ -36,7 +36,7 @@ let btn = document.querySelector("button")
 let guessname;
 btn.addEventListener("click",()=>{
     guessname = document.querySelector("#inputvalue").value
-    if(guessname == "INDIA" || guessname == "india"){
+    if(guessname == "INDIA" || guessname == "india" || guessname == "India"){
         document.querySelector(".h1").textContent = " 🎉Congratulations you are winner 🎉"
         
     }
