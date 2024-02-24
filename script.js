@@ -41,7 +41,7 @@ btn.addEventListener("click",()=>{
         
     }
     else if(guessname === ""){
-        document.querySelector(".h1").textContent = alert("Please Enter Name")
+        document.querySelector(".h1").textContent = alert("Please Enter Name ❗")
     }
     else{
         document.querySelector(".h1").textContent = "Wrong Guess ❌ Guess Again"
